@@ -52,11 +52,11 @@
 
 2- می‌تونید ببینید که فالوورهای پیج هدف در حال استخراج هستند
 
-   ![تصویر 2](screenshot/extension–2.png)
+   ![تصویر 2](screenshot/extension-2.png)
 
 3- اطلاعات فالوورها به طور خودکار در پوشه دانلود سیستم شما ذخیره میشه.
 
-   ![تصویر 3](screenshot/extension–3.png)
+   ![تصویر 3](screenshot/extension-3.png)
 
 
 
